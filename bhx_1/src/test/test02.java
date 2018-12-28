@@ -6,8 +6,9 @@ import java.util.Calendar;
 
 public class test02 {
 	 public static void main(String[] args) throws ParseException {
-			String start = "201809";//开始月份
-			String end = "202802";//结束月份
+			String start = "200608";//开始月份
+			String start1 = "200608";//开始月份
+			String end = "201912";//结束月份
 			String format = "yyyyMM";
 			int a = monthBetween(start,end,format);
 			System.out.println(a);
