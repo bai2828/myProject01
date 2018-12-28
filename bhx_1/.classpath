@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/excell/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/excell/poi-3.12.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/excell/poi-ooxml-3.12.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/excell/poi-ooxml-schemas-3.12.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/base/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/fastjson-1.1.37.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/json-lib-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/commons-net-3.3.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/commons-pool-1.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/itext-2.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/itext-asian-5.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/xmlpull-1.1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/xstream-1.4.8.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/lib/other/core-renderer-8RC1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
