@@ -6,8 +6,8 @@ import java.util.Calendar;
 
 public class test02 {
 	 public static void main(String[] args) throws ParseException {
-			String start = "201808"; // ��ʼ����
-			String end = "201812";// ��������
+			String start = "201808";
+			String end = "201812";//
 			String format = "yyyyMM";
 			int a = monthBetween(start,end,format);
 			System.out.println(a);
