@@ -1,6 +1,6 @@
 package arithmetic;
 
-public class subject_002 {
+public class subject002 {
 
 	/**
 	 * 递归实现 输入n输出n！
