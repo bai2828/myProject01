@@ -26,4 +26,5 @@ public class subject006 {
         }
         System.out.println("最大值:" + max + ",第二大数" + secondMax);
     }
+
 }
