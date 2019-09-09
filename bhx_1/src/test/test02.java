@@ -5,7 +5,7 @@ import java.text.ParseException;
 public class test02 {
 	 public static void main(String[] args) throws ParseException {
 			String start = "200608";//开始月份
-			//测试
+			//测试1
 			System.out.println( Integer.parseInt(start));
 	    }
 
